@@ -115,12 +115,12 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
-baseurl: /StrayBirds
+username: flyercao
+baseurl: /Blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: flyercao的技术博客
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
 disqusname: minixalpha
