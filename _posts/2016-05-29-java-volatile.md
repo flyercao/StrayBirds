@@ -1,10 +1,10 @@
-
 ---
 layout: post
 title: java中volatile关键字的含义
 category: 技术
 comments: true
 ---
+
 ###java中volatile关键字的含义
 
 在java线程并发处理中，有一个关键字volatile的使用目前存在很大的混淆，以为使用这个关键字，在进行多线程并发处理的时候就可以万事大吉。
