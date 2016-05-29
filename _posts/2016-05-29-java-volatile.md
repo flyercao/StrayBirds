@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: java中volatile关键字的含义
